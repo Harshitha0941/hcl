@@ -16,3 +16,4 @@ public class Employee {
 	 private String department;
 	 private float salary;
 }
+//Employee
